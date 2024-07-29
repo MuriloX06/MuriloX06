@@ -16,3 +16,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Snake animation](https://github.com/MuriloX06/MuriloX06/blob/output/github-contribution-grid-snake.svg)
+
